@@ -4,7 +4,7 @@
 - 📝 Aprendendo JavaScript / NodeJS
 - 🕴️ Pronouns: ele / dele
 
-<div allign="center">
+<div align="center">
   <a href="https://github.com/Danyllo-Mendanha-dev">
     <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=Danyllo-Mendanha-dev&show_icons=true&theme=highcontrast&include_all-commits=true" />
   </a>
@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<div style="display: inline-block"> <br>
+<div align="center" style="display: inline-block"> <br>
   <img align="center" alt="Danyllo-JS" vspace="8" hspace="8" heigth="30" width="40"   
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Danyllo-NodeJS" vspace="8" hspace="8" heigth="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -23,7 +23,7 @@
 
   ##
 
-<div allign="center">
+<div align="center">
   <a href="https://www.instagram.com/danyllo.mendanha/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
   <a href="https://discord.com/channels/@me/1088965264785285142" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
   <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
