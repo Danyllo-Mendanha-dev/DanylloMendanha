@@ -28,4 +28,6 @@
   <a href="https://discord.com/channels/@me/1088965264785285142" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
   <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/danyllo-mendanha-936841218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  
+   ![Snake animation](https://github.com/Danyllo-Mendanha-dev/Danyllo-Mendanha-dev/blob/output/github-contribution-grid-snake.svg)
 </div>
