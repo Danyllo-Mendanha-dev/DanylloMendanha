@@ -32,5 +32,5 @@
 </div>
 
 <div align="center">
- ![Snake animation](https://github.com/danyllo-mendanha-dev/danyllo-mendanha-dev/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Danyllo-Mendanha-dev/Danyllo-Mendanha-dev/blob/output/github-contribution-grid-snake.svg)
 </div>
