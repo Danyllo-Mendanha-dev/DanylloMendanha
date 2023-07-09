@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/Danyllo-Mendanha-dev">
-    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=Danyllo-Mendanha-dev&show_icons=true&theme=highcontrast&include_all-commits=true" />
+    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=Danyllo-Mendanha-dev&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true" />
   </a>
   <a href="https://github.com/Danyllo-Mendanha-dev">
-    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Danyllo-Mendanha-dev&theme=highcontrast&layout=compact&langs_count=8"/>
+    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Danyllo-Mendanha-dev&theme=highcontrast&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
