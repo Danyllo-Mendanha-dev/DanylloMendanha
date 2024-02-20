@@ -2,7 +2,6 @@
 
 - 💻 Eu sou um entusiasta sobre tudo que envolve o mundo da programação
 - 📝 Aprendendo JavaScript / NodeJS
-- 🕴️ Pronouns: ele / dele
 
 <div align="center">
   <a href="https://github.com/Danyllo-Mendanha-dev">
